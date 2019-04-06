@@ -5,9 +5,9 @@
 ![Image](https://github.com/zhanglongtumi/CameraCsAforge/blob/master/运行情况.JPG)
 
 运行情况
-![Image](https://github.com/zhanglongtumi/CameraCsAforge/blob/master/CPU使用情况.jpg)
+![Image](https://github.com/zhanglongtumi/CameraCsAforge/blob/master/CPU使用情况.JPG)
 
 CPU使用情况
-![Image](https://github.com/zhanglongtumi/CameraCsAforge/blob/master/GPU使用情况.jpg)
+![Image](https://github.com/zhanglongtumi/CameraCsAforge/blob/master/GPU使用情况.JPG)
 
 GPU使用情况
